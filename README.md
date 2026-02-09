@@ -1,7 +1,7 @@
 # Hi, I'm Neha Singh 👋
 
 **Junior Full-Stack MERN Developer**  
-Building, deploying, and maintaining **production-ready web applications** with modern JavaScript technologies.
+Building, deploying, and maintaining **production-ready web applications used by real users** with modern JavaScript technologies.
 
 I focus on clean code, scalable architecture, and real-world deployments using **Linux servers, cloud platforms, and CI/CD workflows**.
 
@@ -15,6 +15,7 @@ I focus on clean code, scalable architecture, and real-world deployments using *
 - 📦 Basic knowledge of **Docker & DevOps fundamentals**
 - 🔍 Strong frontend–backend integration skills
 - 🎯 Actively seeking **Junior Developer / MERN / Full-Stack roles**
+- 👩‍💻 Comfortable working across frontend, backend, and deployment layers
 
 ---
 
