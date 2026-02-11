@@ -80,7 +80,7 @@ I focus on clean code, scalable architecture, and real-world deployments using *
 ---
 
 ### 🎟️ CrowdHive — Event Management Platform
-🌐 **Live:** https://events-beta-nine.vercel.app  
+🌐 **Live:** https://event-drab-ten.vercel.app/
 
 - Event & crowd collaboration web application
 - Full-stack JavaScript project
