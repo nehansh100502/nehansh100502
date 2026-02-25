@@ -1,4 +1,4 @@
-![Banner](Neha Singh.gif)
+![Banner](neha-singh.gif)
 # Hi, I'm Neha Singh 👋
 
 **Junior Full-Stack MERN Developer**  
