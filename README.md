@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="nailskart-demo.gif" width="800"/>
-</p>
+<img src="nailskart-demo.gif">
 
 # Hi, I'm Neha Singh 👋
 
