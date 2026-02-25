@@ -1,5 +1,4 @@
-<img src="nailskart-demo.gif">
-
+![Banner](nailskart-demo.gif)
 # Hi, I'm Neha Singh 👋
 
 **Junior Full-Stack MERN Developer**  
