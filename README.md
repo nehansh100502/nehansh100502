@@ -51,7 +51,8 @@ I focus on clean code, scalable architecture, and real-world deployments using *
 
 🎬 Demo Video
 
-[https://github.com/nehansh100502/nehansh100502/assets/nailskart-demo.mp4](https://github.com/nehansh100502/nehansh100502/blob/main/nailskart-demo.mp4)
+<video src="nailskart-demo.mp4" controls width="700"></video>
+
 - Full-stack MERN e-commerce application
 - RESTful APIs with secure environment configuration
 - Deployed on **Linux VPS using Nginx & PM2**
