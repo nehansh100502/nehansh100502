@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="nailskart-demo.gif" width="800"/>
+</p>
+
 # Hi, I'm Neha Singh 👋
 
 **Junior Full-Stack MERN Developer**  
