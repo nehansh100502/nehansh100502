@@ -70,6 +70,11 @@ I focus on clean code, scalable architecture, and real-world deployments using *
 
 ### 🏢 Perfect Pixel Studio — Business Website
 🌐 **Live:** https://perfectpixelstudioo.com  
+🎬 Demo image
+
+<p align="center">
+  <img src="banner01.jpeg" />
+</p>
 
 - Responsive business website
 - Built with HTML, CSS & JavaScript
