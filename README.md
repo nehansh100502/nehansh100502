@@ -54,7 +54,7 @@ I focus on clean code, scalable architecture, and real-world deployments using *
 🎬 Demo image
 
 <p align="center">
-  <img src="banner.png" />
+  <img src="banner.jpg" />
 </p>
 
 # Hi, I'm Neha Singh 👋
