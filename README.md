@@ -47,11 +47,12 @@ I focus on clean code, scalable architecture, and real-world deployments using *
 
 ## 🛍️ NailsKart — MERN E-commerce Platform
 
+🛍️ NailsKart — MERN E-commerce Platform
 🌐 Live: https://nailskart.in
 
 🎬 Demo Video
 
-<video src="nailskart-demo.mp4" controls width="700"></video>
+![NailsKart Demo](nailskart-demo.gif)
 
 - Full-stack MERN e-commerce application
 - RESTful APIs with secure environment configuration
