@@ -51,9 +51,13 @@ I focus on clean code, scalable architecture, and real-world deployments using *
 🛍️ NailsKart — MERN E-commerce Platform
 🌐 Live: https://nailskart.in
 
-🎬 Demo Video
+🎬 Demo image
 
-![NailsKart Demo](nailskart-demo.gif)
+<p align="center">
+  <img src="banner.png" />
+</p>
+
+# Hi, I'm Neha Singh 👋
 
 - Full-stack MERN e-commerce application
 - RESTful APIs with secure environment configuration
