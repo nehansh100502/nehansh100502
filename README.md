@@ -86,7 +86,11 @@ I focus on clean code, scalable architecture, and real-world deployments using *
 
 ### 👁️ ZoopicEye — JavaScript Web Application
 🌐 **Live:** https://zoopiceye-web.vercel.app  
+🎬 Demo image
 
+<p align="center">
+  <img src="banner02.jpeg" />
+</p>
 - Clean modular frontend–backend structure
 - CI/CD deployment on Vercel
 - Maintainable and scalable JavaScript codebase
@@ -97,7 +101,11 @@ I focus on clean code, scalable architecture, and real-world deployments using *
 
 ### 🎟️ CrowdHive — Event Management Platform
 🌐 **Live:** https://event-drab-ten.vercel.app/
+🎬 Demo image
 
+<p align="center">
+  <img src="banner03.jpeg" />
+</p>
 - Event & crowd collaboration web application
 - Full-stack JavaScript project
 - Multiple production deployments on Vercel
