@@ -1,4 +1,4 @@
-![Banner](nailskart-demo.gif)
+![Banner](Neha Singh.gif)
 # Hi, I'm Neha Singh 👋
 
 **Junior Full-Stack MERN Developer**  
