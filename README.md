@@ -57,8 +57,6 @@ I focus on clean code, scalable architecture, and real-world deployments using *
   <img src="banner.jpg" />
 </p>
 
-# Hi, I'm Neha Singh 👋
-
 - Full-stack MERN e-commerce application
 - RESTful APIs with secure environment configuration
 - Deployed on **Linux VPS using Nginx & PM2**
